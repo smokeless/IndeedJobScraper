@@ -11,7 +11,7 @@ setuptools.setup(
     description="An indeed job scraper.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/smokeless/IndeedJobScraper"
+    url="https://github.com/smokeless/IndeedJobScraper",
     packages=setuptools.find_packages(),
     classifiers=(
         "Programming Language :: Python :: 3",
